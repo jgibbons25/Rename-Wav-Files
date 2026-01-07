@@ -1,5 +1,5 @@
 
-### Automation Script
+### .Wav Rename Automation Script
 I created this Python script in the midst of a short film project to automate renaming hundreds of sound files. 
 
 This script crawls through the working directory, including all subfolders. It assumes each sound file has a named layer such as _1, _2, or _3 associated to the mic used to record it. When you execute the script, you can tell it what to rename each layer.
